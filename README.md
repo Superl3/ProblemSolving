@@ -5,6 +5,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |11021. A＋B － 7|[링크](./%EB%B0%B1%EC%A4%80/Bronze/11021.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%857/README.md)|
+|13698. Hawk eyes|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13698.%E2%80%85Hawk%E2%80%85eyes/README.md)|
 |4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets.cc)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
