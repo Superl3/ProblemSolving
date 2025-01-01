@@ -26,3 +26,4 @@
 |25787. Square Fishing Net|[링크](./%EB%B0%B1%EC%A4%80/Silver/25787.%E2%80%85Square%E2%80%85Fishing%E2%80%85Net/Square%E2%80%85Fishing%E2%80%85Net.cc)|
 |26070. 곰곰이와 학식|[링크](./%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/README.md)|
 |29693. 포스터 만들기|[링크](./%EB%B0%B1%EC%A4%80/Silver/29693.%E2%80%85%ED%8F%AC%EC%8A%A4%ED%84%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%ED%8F%AC%EC%8A%A4%ED%84%B0%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.cc)|
+|9815. Cabric Number Problem|[링크](./%EB%B0%B1%EC%A4%80/Silver/9815.%E2%80%85Cabric%E2%80%85Number%E2%80%85Problem/README.md)|
