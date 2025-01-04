@@ -23,6 +23,7 @@
 |14376. The Last Word （Large）|[링크](./%EB%B0%B1%EC%A4%80/Silver/14376.%E2%80%85The%E2%80%85Last%E2%80%85Word%E2%80%85%EF%BC%88Large%EF%BC%89/README.md)|
 |14783. Eenie Meenie Miney Moe|[링크](./%EB%B0%B1%EC%A4%80/Silver/14783.%E2%80%85Eenie%E2%80%85Meenie%E2%80%85Miney%E2%80%85Moe/README.md)|
 |19100. Shuffle|[링크](./%EB%B0%B1%EC%A4%80/Silver/19100.%E2%80%85Shuffle/Shuffle.cc)|
+|2090. 조화평균|[링크](./%EB%B0%B1%EC%A4%80/Silver/2090.%E2%80%85%EC%A1%B0%ED%99%94%ED%8F%89%EA%B7%A0/README.md)|
 |23394. Handling the Blocks|[링크](./%EB%B0%B1%EC%A4%80/Silver/23394.%E2%80%85Handling%E2%80%85the%E2%80%85Blocks/README.md)|
 |25787. Square Fishing Net|[링크](./%EB%B0%B1%EC%A4%80/Silver/25787.%E2%80%85Square%E2%80%85Fishing%E2%80%85Net/Square%E2%80%85Fishing%E2%80%85Net.cc)|
 |26070. 곰곰이와 학식|[링크](./%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/README.md)|
