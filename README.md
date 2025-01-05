@@ -25,6 +25,7 @@
 |12910. 사탕 나눠주기|[링크](./%EB%B0%B1%EC%A4%80/Silver/12910.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/README.md)|
 |14376. The Last Word （Large）|[링크](./%EB%B0%B1%EC%A4%80/Silver/14376.%E2%80%85The%E2%80%85Last%E2%80%85Word%E2%80%85%EF%BC%88Large%EF%BC%89/README.md)|
 |14783. Eenie Meenie Miney Moe|[링크](./%EB%B0%B1%EC%A4%80/Silver/14783.%E2%80%85Eenie%E2%80%85Meenie%E2%80%85Miney%E2%80%85Moe/README.md)|
+|1678. 기차|[링크](./%EB%B0%B1%EC%A4%80/Silver/1678.%E2%80%85%EA%B8%B0%EC%B0%A8/README.md)|
 |19100. Shuffle|[링크](./%EB%B0%B1%EC%A4%80/Silver/19100.%E2%80%85Shuffle/Shuffle.cc)|
 |2090. 조화평균|[링크](./%EB%B0%B1%EC%A4%80/Silver/2090.%E2%80%85%EC%A1%B0%ED%99%94%ED%8F%89%EA%B7%A0/README.md)|
 |23394. Handling the Blocks|[링크](./%EB%B0%B1%EC%A4%80/Silver/23394.%E2%80%85Handling%E2%80%85the%E2%80%85Blocks/README.md)|
