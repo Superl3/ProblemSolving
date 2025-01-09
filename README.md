@@ -36,6 +36,7 @@
 |1678. 기차|[링크](./%EB%B0%B1%EC%A4%80/Silver/1678.%E2%80%85%EA%B8%B0%EC%B0%A8/README.md)|
 |19100. Shuffle|[링크](./%EB%B0%B1%EC%A4%80/Silver/19100.%E2%80%85Shuffle/Shuffle.cc)|
 |2090. 조화평균|[링크](./%EB%B0%B1%EC%A4%80/Silver/2090.%E2%80%85%EC%A1%B0%ED%99%94%ED%8F%89%EA%B7%A0/README.md)|
+|22232. 가희와 파일 탐색기|[링크](./%EB%B0%B1%EC%A4%80/Silver/22232.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%8C%8C%EC%9D%BC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0/%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%8C%8C%EC%9D%BC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0.cc)|
 |23394. Handling the Blocks|[링크](./%EB%B0%B1%EC%A4%80/Silver/23394.%E2%80%85Handling%E2%80%85the%E2%80%85Blocks/README.md)|
 |25787. Square Fishing Net|[링크](./%EB%B0%B1%EC%A4%80/Silver/25787.%E2%80%85Square%E2%80%85Fishing%E2%80%85Net/Square%E2%80%85Fishing%E2%80%85Net.cc)|
 |26070. 곰곰이와 학식|[링크](./%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/README.md)|
