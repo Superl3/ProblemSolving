@@ -5,6 +5,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |11021. A＋B － 7|[링크](./%EB%B0%B1%EC%A4%80/Bronze/11021.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%857/README.md)|
+|1259. 팰린드롬수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1259.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98/README.md)|
 |1356. 유진수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1356.%E2%80%85%EC%9C%A0%EC%A7%84%EC%88%98/%EC%9C%A0%EC%A7%84%EC%88%98.cc)|
 |13698. Hawk eyes|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13698.%E2%80%85Hawk%E2%80%85eyes/README.md)|
 |16861. Harshad Numbers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/16861.%E2%80%85Harshad%E2%80%85Numbers/README.md)|
