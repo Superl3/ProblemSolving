@@ -27,6 +27,7 @@
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
+|10773. 제로|[링크](./%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C/README.md)|
 |12910. 사탕 나눠주기|[링크](./%EB%B0%B1%EC%A4%80/Silver/12910.%E2%80%85%EC%82%AC%ED%83%95%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/README.md)|
 |13986. Gravity|[링크](./%EB%B0%B1%EC%A4%80/Silver/13986.%E2%80%85Gravity/README.md)|
 |14376. The Last Word （Large）|[링크](./%EB%B0%B1%EC%A4%80/Silver/14376.%E2%80%85The%E2%80%85Last%E2%80%85Word%E2%80%85%EF%BC%88Large%EF%BC%89/README.md)|
