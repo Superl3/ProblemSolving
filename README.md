@@ -10,6 +10,7 @@
 |13698. Hawk eyes|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13698.%E2%80%85Hawk%E2%80%85eyes/README.md)|
 |16861. Harshad Numbers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/16861.%E2%80%85Harshad%E2%80%85Numbers/README.md)|
 |27866. 문자와 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%99%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md)|
+|30802. 웰컴 키트|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30802.%E2%80%85%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8/README.md)|
 |31403. $A ＋ B － C$|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24.cc)|
 |4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets.cc)|
 |4623. Copier Reduction|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4623.%E2%80%85Copier%E2%80%85Reduction/Copier%E2%80%85Reduction.cc)|
