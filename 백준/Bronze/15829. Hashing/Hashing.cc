@@ -15,7 +15,7 @@ int main() {
 	for (auto& letter: str) {
 		int num = letter - 'a' + 1;
 		hash += (num * r) % M;
-		r *= 31;
+		r = (r * 31) % M;
 	}
 	cout << hash % M << endl;
 	return 0;
