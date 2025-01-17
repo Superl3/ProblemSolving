@@ -20,6 +20,7 @@
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
+|12100. 2048 （Easy）|[링크](./%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md)|
 |13377. Dictionary|[링크](./%EB%B0%B1%EC%A4%80/Gold/13377.%E2%80%85Dictionary/README.md)|
 |15681. 트리와 쿼리|[링크](./%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC.cc)|
 |16236. 아기 상어|[링크](./%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4/%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4.cc)|
