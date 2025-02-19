@@ -15,12 +15,13 @@
 |28702. FizzBuzz|[링크](./%EB%B0%B1%EC%A4%80/Bronze/28702.%E2%80%85FizzBuzz/FizzBuzz.cc)|
 |30802. 웰컴 키트|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30802.%E2%80%85%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8/%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8.cc)|
 |31403. $A ＋ B － C$|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24.cc)|
-|4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets.cc)|
+|4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/README.md)|
 |4623. Copier Reduction|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4623.%E2%80%85Copier%E2%80%85Reduction/Copier%E2%80%85Reduction.cc)|
 |9971. The Hardest Problem Ever|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9971.%E2%80%85The%E2%80%85Hardest%E2%80%85Problem%E2%80%85Ever/The%E2%80%85Hardest%E2%80%85Problem%E2%80%85Ever.cc)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
 | ----- | ----- |
+|10942. 팰린드롬？|[링크](./%EB%B0%B1%EC%A4%80/Gold/10942.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EF%BC%9F/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EF%BC%9F.cc)|
 |12100. 2048 （Easy）|[링크](./%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/2048%E2%80%85%EF%BC%88Easy%EF%BC%89.cc)|
 |13377. Dictionary|[링크](./%EB%B0%B1%EC%A4%80/Gold/13377.%E2%80%85Dictionary/Dictionary.cc)|
 |15681. 트리와 쿼리|[링크](./%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC.cc)|
@@ -30,7 +31,7 @@
 |1722. 순열의 순서|[링크](./%EB%B0%B1%EC%A4%80/Gold/1722.%E2%80%85%EC%88%9C%EC%97%B4%EC%9D%98%E2%80%85%EC%88%9C%EC%84%9C/%EC%88%9C%EC%97%B4%EC%9D%98%E2%80%85%EC%88%9C%EC%84%9C.cc)|
 |1806. 부분합|[링크](./%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/%EB%B6%80%EB%B6%84%ED%95%A9.cc)|
 |2239. 스도쿠|[링크](./%EB%B0%B1%EC%A4%80/Gold/2239.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/%EC%8A%A4%EB%8F%84%EC%BF%A0.cc)|
-|2467. 용액|[링크](./%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/%EC%9A%A9%EC%95%A1.cc)|
+|2467. 용액|[링크](./%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/README.md)|
 |7453. 합이 0인 네 정수|[링크](./%EB%B0%B1%EC%A4%80/Gold/7453.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850%EC%9D%B8%E2%80%85%EB%84%A4%E2%80%85%EC%A0%95%EC%88%98/%ED%95%A9%EC%9D%B4%E2%80%850%EC%9D%B8%E2%80%85%EB%84%A4%E2%80%85%EC%A0%95%EC%88%98.cc)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
