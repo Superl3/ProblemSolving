@@ -35,6 +35,10 @@ child가 1이거나 0이거나 상관없음
 */
 
 int main() {
+
+	cin.tie(NULL);
+	ios_base::sync_with_stdio(false);
+
 	int N;
 	cin >> N;
 
