@@ -57,6 +57,7 @@
 | ----- | ----- |
 |1019. 책 페이지|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1019.%E2%80%85%EC%B1%85%E2%80%85%ED%8E%98%EC%9D%B4%EC%A7%80/README.md)|
 |1708. 볼록 껍질|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1708.%E2%80%85%EB%B3%BC%EB%A1%9D%E2%80%85%EA%BB%8D%EC%A7%88/README.md)|
+|1786. 찾기|[링크](./%EB%B0%B1%EC%A4%80/Platinum/1786.%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
