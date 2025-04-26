@@ -19,6 +19,7 @@
 |28702. FizzBuzz|[링크](./%EB%B0%B1%EC%A4%80/Bronze/28702.%E2%80%85FizzBuzz/FizzBuzz.cc)|
 |30802. 웰컴 키트|[링크](./%EB%B0%B1%EC%A4%80/Bronze/30802.%E2%80%85%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8/%EC%9B%B0%EC%BB%B4%E2%80%85%ED%82%A4%ED%8A%B8.cc)|
 |31403. $A ＋ B － C$|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24.cc)|
+|3595. 맥주 냉장고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3595.%E2%80%85%EB%A7%A5%EC%A3%BC%E2%80%85%EB%83%89%EC%9E%A5%EA%B3%A0/%EB%A7%A5%EC%A3%BC%E2%80%85%EB%83%89%EC%9E%A5%EA%B3%A0.py)|
 |4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets.cc)|
 |4623. Copier Reduction|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4623.%E2%80%85Copier%E2%80%85Reduction/Copier%E2%80%85Reduction.cc)|
 |9971. The Hardest Problem Ever|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9971.%E2%80%85The%E2%80%85Hardest%E2%80%85Problem%E2%80%85Ever/The%E2%80%85Hardest%E2%80%85Problem%E2%80%85Ever.cc)|
