@@ -8,6 +8,7 @@
 |1259. 팰린드롬수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1259.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.cc)|
 |1356. 유진수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1356.%E2%80%85%EC%9C%A0%EC%A7%84%EC%88%98/README.md)|
 |13698. Hawk eyes|[링크](./%EB%B0%B1%EC%A4%80/Bronze/13698.%E2%80%85Hawk%E2%80%85eyes/Hawk%E2%80%85eyes.cc)|
+|14790. Tidy Numbers （Small）|[링크](./%EB%B0%B1%EC%A4%80/Bronze/14790.%E2%80%85Tidy%E2%80%85Numbers%E2%80%85%EF%BC%88Small%EF%BC%89/Tidy%E2%80%85Numbers%E2%80%85%EF%BC%88Small%EF%BC%89.py)|
 |15829. Hashing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/15829.%E2%80%85Hashing/Hashing.cc)|
 |16099. Larger Sport Facility|[링크](./%EB%B0%B1%EC%A4%80/Bronze/16099.%E2%80%85Larger%E2%80%85Sport%E2%80%85Facility/Larger%E2%80%85Sport%E2%80%85Facility.cc)|
 |16861. Harshad Numbers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/16861.%E2%80%85Harshad%E2%80%85Numbers/Harshad%E2%80%85Numbers.cc)|
