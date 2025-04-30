@@ -14,6 +14,7 @@
 |16861. Harshad Numbers|[링크](./%EB%B0%B1%EC%A4%80/Bronze/16861.%E2%80%85Harshad%E2%80%85Numbers/Harshad%E2%80%85Numbers.cc)|
 |17177. 내접사각형 만들기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/17177.%E2%80%85%EB%82%B4%EC%A0%91%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%82%B4%EC%A0%91%EC%82%AC%EA%B0%81%ED%98%95%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.cc)|
 |18698. The Walking Adam|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18698.%E2%80%85The%E2%80%85Walking%E2%80%85Adam/The%E2%80%85Walking%E2%80%85Adam.py)|
+|26560. Periods|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26560.%E2%80%85Periods/Periods.py)|
 |27866. 문자와 문자열|[링크](./%EB%B0%B1%EC%A4%80/Bronze/27866.%E2%80%85%EB%AC%B8%EC%9E%90%EC%99%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/%EB%AC%B8%EC%9E%90%EC%99%80%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4.cc)|
 |28135. Since 1973|[링크](./%EB%B0%B1%EC%A4%80/Bronze/28135.%E2%80%85Since%E2%80%851973/Since%E2%80%851973.py)|
 |28490. Area|[링크](./%EB%B0%B1%EC%A4%80/Bronze/28490.%E2%80%85Area/Area.py)|
