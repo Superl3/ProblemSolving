@@ -97,6 +97,7 @@
 |2164. 카드2|[링크](./%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2/README.md)|
 |22232. 가희와 파일 탐색기|[링크](./%EB%B0%B1%EC%A4%80/Silver/22232.%E2%80%85%EA%B0%80%ED%9D%AC%EC%99%80%E2%80%85%ED%8C%8C%EC%9D%BC%E2%80%85%ED%83%90%EC%83%89%EA%B8%B0/README.md)|
 |23394. Handling the Blocks|[링크](./%EB%B0%B1%EC%A4%80/Silver/23394.%E2%80%85Handling%E2%80%85the%E2%80%85Blocks/README.md)|
+|25335. Gravity Hackenbush|[링크](./%EB%B0%B1%EC%A4%80/Silver/25335.%E2%80%85Gravity%E2%80%85Hackenbush/README.md)|
 |25787. Square Fishing Net|[링크](./%EB%B0%B1%EC%A4%80/Silver/25787.%E2%80%85Square%E2%80%85Fishing%E2%80%85Net/Square%E2%80%85Fishing%E2%80%85Net.cc)|
 |2606. 바이러스|[링크](./%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|
 |26070. 곰곰이와 학식|[링크](./%EB%B0%B1%EC%A4%80/Silver/26070.%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4%EC%99%80%E2%80%85%ED%95%99%EC%8B%9D/README.md)|
