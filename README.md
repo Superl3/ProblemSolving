@@ -29,6 +29,7 @@
 |4118. Fred’s Lotto Tickets|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4118.%E2%80%85Fred%E2%80%99s%E2%80%85Lotto%E2%80%85Tickets/README.md)|
 |4623. Copier Reduction|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4623.%E2%80%85Copier%E2%80%85Reduction/Copier%E2%80%85Reduction.cc)|
 |5753. Pascal Library|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5753.%E2%80%85Pascal%E2%80%85Library/README.md)|
+|9784. Boiled Eggs|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9784.%E2%80%85Boiled%E2%80%85Eggs/README.md)|
 |9971. The Hardest Problem Ever|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9971.%E2%80%85The%E2%80%85Hardest%E2%80%85Problem%E2%80%85Ever/README.md)|
 ### 🚀 Gold
 | 문제번호 | 링크 |
